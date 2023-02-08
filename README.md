@@ -1,13 +1,8 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>MongoDB Commerce</h1>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Primeiro projeto visando a fixação dos aprendizados em MongoDB realizado no curso da Trybe.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Trata-se de um conjunto de queries para encontrar, criar, atualizar e apagar dados em um banco de dados não relacional que simula o menu do restaurante de fast food.
+
+<h2>Stack utilizada</h2>
+<a href="https://www.mongodb.com/">MongoDB</a>
